@@ -1,10 +1,10 @@
 # Python-Practical
 
-##First
+## First
 Contains the code for checking the roots of a quadratic equation
 
-##Second
+## Second
 Contains code for creating both a pyramid and a reverse pyramid
 
-##Third
+## Third
 Code for checking frequency of a char in a sentence
