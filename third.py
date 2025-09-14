@@ -1,10 +1,11 @@
-text = input("Enter a sentence: ")
-char = input("Enter a char to check frequency: ")
+#for creating a pyramid
+n = int(input("Enter no of rows: "))
 
-count = 0
- 
-for c in text:
-    if c == char:
-        count += 1
+for i in range(1, n + 1):
+    print(" " * (n - i) + "* " * i)
 
-print(f"The char {char} in the sentence {text} appears {count} times")
+#for creating a reverse pyramid
+n = int(input("Enter no of rows: "))
+
+for i in range(n, 0, -1):
+    print(" " * (n - i) + "* " * i)
