@@ -8,3 +8,5 @@ Contains code for creating both a pyramid and a reverse pyramid
 
 ## Third
 Code for checking frequency of a char in a sentence
+
+## Forth
